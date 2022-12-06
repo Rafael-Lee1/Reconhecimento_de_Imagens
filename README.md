@@ -1,4 +1,4 @@
-# Reconhecimento-de-Imagens-com-Python---OpenCV
+### Reconhecimento de Imagens com Python-OpenCV
 Logica simples para reconhecimento de imagens.
 
 <div>
